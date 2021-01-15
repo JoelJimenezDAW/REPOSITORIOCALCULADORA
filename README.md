@@ -1,18 +1,12 @@
 # Calculadora Domotic Quality
 
 ## Calculadora
-  _Hecha a partir de código basado en HTML, CSS y JavaScript._
+  _Esta calculadora esta hecha por HTML, CSS y javascript_
 
 ## Comenzando 🚀
-
-
-
+Comenzamos sin saber nada a saber hacer una calculadora
 
 ## Pre-requisitos 📋
   _Realizado a partir de  un editor de código fuente como Visual Studio Code._
   
 
-
-
-
-⌨️ con ❤️ por DomoticQuality 😊
